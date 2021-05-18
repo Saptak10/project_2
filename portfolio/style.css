@@ -1,0 +1,6 @@
+.headimage{
+	background-image: url("img.jpg");
+	 background-position: top left;
+    background-size: cover;
+    height: 100vh;
+}
