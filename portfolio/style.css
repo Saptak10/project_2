@@ -1,6 +1,11 @@
 .headimage{
-	background-image: url("img.jpg");
+	background-image: url("https://images.unsplash.com/photo-1598867388068-a9e7b49de06d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80");
 	 background-position: top left;
     background-size: cover;
     height: 100vh;
+}
+.trans.scrolled {
+    background: black;
+    color: white;
+    transition: background 500ms color 500ms;
 }
