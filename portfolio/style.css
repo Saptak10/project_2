@@ -1,11 +1,30 @@
+html{
+	margin:0;
+}
+
 .headimage{
-	background-image: url("https://images.unsplash.com/photo-1598867388068-a9e7b49de06d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80");
+	background-image: url("img2.jpg");
 	 background-position: top left;
     background-size: cover;
-    height: 100vh;
+    height: 84vh;
 }
-.trans.scrolled {
-    background: black;
-    color: white;
-    transition: background 500ms color 500ms;
+.scrolled {
+    color: turquoise;
+    font-weight: 1000px;
+}
+.scrolled2 {
+    color: red;
+}
+.scrolled3 {
+    color: red;
+}
+.darkm {
+  color: white !important;
+  background-color: black !important;
+}
+
+#headingGroup h1 {
+    font-weight: 100;
+    font-size: 4rem;
+    color: #EA1C2C;
 }
