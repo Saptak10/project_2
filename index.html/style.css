@@ -1,0 +1,46 @@
+.portfoliostyle{
+    letter-spacing: 2px;
+    background-color: #e5e5e5;
+}
+
+
+.headimg{
+            height: 100vh;
+background-image: url("headimg.jpg");
+background-size: cover;
+}
+.scrolled {
+    color: turquoise;
+    font-weight: 1000px;
+    transition: color 500ms;
+}
+
+.darkm {
+  color: white !important;
+  background-color: black !important;
+}
+
+#headingGroup h1 {
+    font-size: 4rem;
+    color: #264653;
+        letter-spacing: 2px;
+
+}
+.heading{
+        height: 100vh;
+}
+
+.dropclass{
+    background-color: #9ef01a;
+}
+.dropclass li a{
+    color: #457b9d;
+}
+.dropclass li a:hover{
+        background-color: #9ef01a;
+
+    color: #1d3557;
+}
+.aboutstyle{
+    height:100vh;
+}
