@@ -1,5 +1,5 @@
 html{
-	margin:0;
+	margin:0px;
 }
 
 .headimage{
@@ -11,13 +11,9 @@ html{
 .scrolled {
     color: turquoise;
     font-weight: 1000px;
+    transition: color 2000ms;
 }
-.scrolled2 {
-    color: red;
-}
-.scrolled3 {
-    color: red;
-}
+
 .darkm {
   color: white !important;
   background-color: black !important;
