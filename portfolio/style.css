@@ -1,17 +1,13 @@
-html{
-	margin:0px;
+.portfoliostyle{
+    letter-spacing: 2px;
+    background-color: #e5e5e5;
 }
 
-.headimage{
-	background-image: url("img2.jpg");
-	 background-position: top left;
-    background-size: cover;
-    height: 84vh;
-}
+
 .scrolled {
     color: turquoise;
     font-weight: 1000px;
-    transition: color 2000ms;
+    transition: color 500ms;
 }
 
 .darkm {
@@ -22,5 +18,26 @@ html{
 #headingGroup h1 {
     font-weight: 100;
     font-size: 4rem;
-    color: #EA1C2C;
+    color: #264653;
+}
+.heading{
+        height: 90vh;
+background-color: #e5e5e5;
+}
+.darkm .header {
+    background: #252627;
+}
+.dropclass{
+    background-color: #e5e5e5;
+}
+.dropclass li a{
+    color: #457b9d;
+}
+.dropclass li a:hover{
+        background-color: #e5e5e5;
+
+    color: #1d3557;
+}
+.aboutstyle{
+    height:100vh;
 }
